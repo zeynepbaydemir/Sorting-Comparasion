@@ -38,3 +38,49 @@ Program, her sıralama algoritması için farklı boyutlarda veri setlerini sır
 ## Örnek
 
 Örnek çıktı dosyasına ulaşmak için: [Buraya Tıkla!](https://github.com/zeynepbaydemir/Sorting-Comparasion/blob/main/SortingAlgorithmOutputs.pdf)
+
+--- 
+
+eng
+
+# Comparison of Sorting Algorithms
+
+This project is designed to compare the performance of different sorting algorithms. The program applies popular sorting algorithms on random, sorted, and reverse-sorted data sets. The sorting time of each algorithm is measured to perform a performance comparison.
+
+## Usage
+
+To run the program, you can follow these steps:
+
+1. Install Java JDK on your system.
+2. Download or clone this project from GitHub.
+3. Open the code in a Java Integrated Development Environment (IDE).
+4. Run the `SortingComparison.java` file.
+
+## Supported Algorithms
+
+The following sorting algorithms are available in this project:
+
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Shell Sort
+
+## Data Sets
+
+The program evaluates the performance of sorting algorithms using data sets of different sizes. Two types of data sets are used:
+
+1. Random Data: An array is created with elements generated using random numbers.
+2. Sorted Data: An array is created with elements in ascending order.
+3. Reverse Sorted Data: An array is created with elements in descending order.
+
+## Performance Comparison
+
+The program measures the time taken to sort different-sized data sets for each sorting algorithm. The number of elements sorted and the elapsed time (in milliseconds) for each algorithm are displayed as output.
+
+## Example
+
+To access the example output file, click [here](https://github.com/zeynepbaydemir/Sorting-Comparasion/blob/main/SortingAlgorithmOutputs.pdf).
+
